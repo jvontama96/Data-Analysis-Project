@@ -123,3 +123,6 @@
     style="width:50%; max-width:400px;">
  </a>
 </ul>
+
+<h2><a href="https://github.com/jvontama96/Data-Analysis-Project/blob/main/DVD%20Rental%20Data%20Processing%20using%20SQL.pdf">Data Processing using SQL</a></h2>
+<p>These are various projects analyzing Men Shoes Products on Shopee:</p>
