@@ -146,4 +146,18 @@
   <li><strong>Descriptive Data Analysis:</strong> Generated categorized summaries for deeper data exploration.</li>
 </ul>
 
-<p>This repository demonstrates advanced SQL capabilities for data analysis, using real-world scenarios to derive meaningful insights from complex datasets.</p>
+<h2><a href="https://github.com/jvontama96/Data-Analysis-Project/blob/main/Ecommerce%202021%20-%202022%20Data%20Analysis.pdf">Ecommerce Data Analysis</a></h2>
+<p>Analyze an e-commerce dataset using SQL on BigQuery and Python on Google Colab, and create visualizations using Google Data Studio.</p>
+<a href="https://github.com/jvontama96/Data-Analysis-Project/blob/main/Ecommerce%202021%20-%202022%20Data%20Analysis.pdf" target="_blank">
+ <img 
+    src="https://github.com/jvontama96/Data-Analysis-Project/blob/main/ecomcover.png?raw=true" 
+    alt="sq1" 
+    style="width:50%; max-width:400px;">
+  <img 
+    src="https://github.com/jvontama96/Data-Analysis-Project/blob/main/ecom1.png?raw=true" 
+    alt="age3" 
+    style="width:50%; max-width:400px;">
+  <img 
+    src="https://github.com/jvontama96/Data-Analysis-Project/blob/main/ecom2.png?raw=true" 
+    alt="age3" 
+    style="width:50%; max-width:400px;">
