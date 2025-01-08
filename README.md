@@ -126,9 +126,15 @@
 
 <h2><a href="https://github.com/jvontama96/Data-Analysis-Project/blob/main/DVD%20Rental%20Data%20Processing%20using%20SQL.pdf">Data Processing using SQL</a></h2>
 
-
+ <img 
+    src="https://github.com/jvontama96/Data-Analysis-Project/blob/main/sql1.png?raw=true" 
+    alt="sq1" 
+    style="width:50%; max-width:400px;">
+  <img 
+    src="https://github.com/jvontama96/Data-Analysis-Project/blob/main/sql2.png?raw=true" 
+    alt="age3" 
+    style="width:50%; max-width:400px;">
 <p>This project highlights my expertise in SQL by performing various analytical tasks on a DVD rental dataset using <strong>PostgreSQL</strong> and <strong>DBeaver</strong>. Below are the skills demonstrated:</p>
-
 <ul>
   <li><strong>Data Retrieval (SELECT Queries):</strong> Extracted specific columns such as <code>first_name</code> and <code>last_name</code> with filtering conditions (e.g., names like Jennifer, Nick, or Ed).</li>
   <li><strong>Aggregation and Filtering:</strong> Calculated total amounts for <code>payment_id</code> exceeding a defined threshold, and grouped numeric data (e.g., <code>film_length</code>) into categories.</li>
