@@ -1,5 +1,5 @@
 <h1>Data Analysis Projects</h1>
-<p>This repository contains various presentation decks from my data analysis projects, where I used Python, SQL, and Tableau for data analysis, graph creation, and data processing.</p>
+<p>This repository contains a collection of presentation decks from my data analysis projects, showcasing the use of Python, SQL, and Tableau for data analysis, graph creation, and data processing. For Python and SQL, I utilized platforms such as Google Colab, BigQuery, and DBeaver.</p>
 
 <h2><a href="https://github.com/jvontama96/Data-Analysis-Project/tree/main/Growlab%20Data%20Analysis%20Presentation%20Deck">Growlab - Data Analysis Presentation Deck</a></h2>
 <p>Growlab is an end-to-end platform from Indonesia that helps businesses and small enterprises grow and increase revenue through programs such as training, mentorship, services, and evaluations.</p>
