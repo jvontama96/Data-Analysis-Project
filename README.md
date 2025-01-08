@@ -125,4 +125,19 @@
 </ul>
 
 <h2><a href="https://github.com/jvontama96/Data-Analysis-Project/blob/main/DVD%20Rental%20Data%20Processing%20using%20SQL.pdf">Data Processing using SQL</a></h2>
-<p>These are various projects analyzing Men Shoes Products on Shopee:</p>
+
+
+<p>This project highlights my expertise in SQL by performing various analytical tasks on a DVD rental dataset using <strong>PostgreSQL</strong> and <strong>DBeaver</strong>. Below are the skills demonstrated:</p>
+
+<ul>
+  <li><strong>Data Retrieval (SELECT Queries):</strong> Extracted specific columns such as <code>first_name</code> and <code>last_name</code> with filtering conditions (e.g., names like Jennifer, Nick, or Ed).</li>
+  <li><strong>Aggregation and Filtering:</strong> Calculated total amounts for <code>payment_id</code> exceeding a defined threshold, and grouped numeric data (e.g., <code>film_length</code>) into categories.</li>
+  <li><strong>Sorting and Ordering:</strong> Ordered query results by columns such as <code>amount</code> in ascending order.</li>
+  <li><strong>Joins and Multi-Table Queries:</strong> Combined data from multiple tables (e.g., <code>rental</code> and <code>payment</code>) for comprehensive insights.</li>
+  <li><strong>Grouping and Ranking:</strong> Grouped data and applied ranking functions to determine actor popularity based on the number of films acted in.</li>
+  <li><strong>Date and Time Analysis:</strong> Identified overdue rentals and analyzed customer activity, such as borrowing patterns on specific days like Mondays.</li>
+  <li><strong>Validation and Checking:</strong> Verified conditions, such as customers renting on Mondays more than once.</li>
+  <li><strong>Descriptive Data Analysis:</strong> Generated categorized summaries for deeper data exploration.</li>
+</ul>
+
+<p>This repository demonstrates advanced SQL capabilities for data analysis, using real-world scenarios to derive meaningful insights from complex datasets.</p>
